@@ -1,0 +1,14 @@
+.heading{
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: red;
+}
+.paragraph{
+    font-family: 'Verdana', sans-serif;
+    font-size: 1em;
+    color: #666;
+}
+.container{
+    text-align: center;
+    background-color: #b3e86d17;
+}
